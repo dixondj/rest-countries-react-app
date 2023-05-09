@@ -86,7 +86,7 @@ const CountriesList = () => {
             {!isLoading && <div className='countries-list-bottom-section'>
 
                 {countries.length > 0 ?
-                    countries.length > 0 && countries?.map(country => (
+                    countries && countries?.map(country => (
                         <Link to={`/country/${country.name.common}`} style={{ color: 'inherit', textDecoration: 'inherit' }}>
                             <div className='countries-card-wrapper'>
 
