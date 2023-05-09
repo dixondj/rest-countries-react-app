@@ -1,0 +1,159 @@
+
+
+.countries-list-top-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+
+}
+
+.search-logo {
+    height: 50px;
+    background-color: #FFF9EE;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    border-top: 2px solid #8A663F;
+    border-bottom: 2px solid #8A663F;
+    border-left:2px solid #8A663F ;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+
+}
+
+.search-container input {
+    background-color: #FFF9EE;
+    border-width: 0;
+    width:35vw;
+    height: 50px;
+    font-size: 20px;
+    padding-left: 10px;
+    border-top: 2px solid #8A663F;
+    border-bottom: 2px solid #8A663F;
+}
+
+.search-container input:focus {
+    outline: none;
+}
+
+.close-logo {
+    height: 50px;
+    background-color: #FFF9EE;
+    display: flex;
+    align-items: center;
+    padding-right: 10px;
+    border-top: 2px solid #8A663F;
+    border-bottom: 2px solid #8A663F;
+    border-right:2px solid #8A663F ;
+    cursor: pointer;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+
+}
+
+.loading-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.loading-container  h2 {
+    font-family: 'Nunito', sans-serif;
+}
+
+
+
+.countries-list-bottom-section {
+    margin: 50px 100px;
+    padding: 50px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px 50px;
+    background-color: #FFF9EE;
+    border-radius: 10px;
+
+}
+
+.countries-list-bottom-section h1 {
+    color: #8A663F;
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+}
+
+.countries-card-wrapper{
+    padding: 20px;
+    border-radius: 20px;
+    color: #8A663F
+}
+
+.countries-image-wrapper img{
+    box-shadow: 0 0 12px rgba(0,0,0,.15);
+    border-radius: 20px;
+    border: 1px solid black;
+}
+
+.countries-card-wrapper:hover {
+    background-color: #8A663F;
+    color: #FFF9EE
+}
+
+
+.country-data{
+    display: flex;
+    justify-content: center;
+    width: 250px;
+   
+}
+
+.country-data h3 {
+    text-decoration: none !important;
+    font-family: 'Nunito', sans-serif;
+    
+}
+
+
+@media (max-width: 750px) {
+
+    .search-container input {
+
+        width: 50vw;
+    }
+    
+}
+
+@media (max-width: 525px) {
+
+    .countries-list-bottom-section {
+        margin: 50px 50px;
+    }
+    
+}
+
+@media (max-width: 510px) {
+
+    .search-container input {
+
+        width: 68vw;
+    }
+    
+}
+
+@media (max-width: 410px) {
+
+    .countries-list-bottom-section {
+        margin: 50px 20px;
+    }
+    
+}
+
+@media (max-width: 380px) {
+
+    .search-container input {
+
+        font-size: 16px;
+    }
+    
+}
