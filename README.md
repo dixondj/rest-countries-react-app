@@ -2,9 +2,11 @@
 
 To run the project locally
 
-1.  npm install
+1. git clone the project repo
 
-2. npm start
+2.  npm install
+
+3. npm start
 
 <br/>
 
