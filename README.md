@@ -44,9 +44,6 @@ Project Description
 
 <img src="./screenshot/google-ss-3.png"/>
 
-<br>
-
-<img src="./screenshot/google-ss-4.png"/>
 
 <br/> <br/>
 
@@ -62,9 +59,6 @@ Project Description
 
 <img src="./screenshot/safari-ss-3.png"/>
 
-<br>
-
-<img src="./screenshot/safari-ss-4.png"/>
 
 <br/> <br/>
 
@@ -80,9 +74,6 @@ Project Description
 
 <img src="./screenshot/firefox-ss-3.png"/>
 
-<br>
-
-<img src="./screenshot/firefox-ss-4.png"/>
 
 <br><br>
 
