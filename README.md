@@ -34,45 +34,45 @@ Project Description
 <Strong>Google</Strong>
 
 
-<img src="./screenshot/google-ss-1.png"/>
+<img src="./screenshot/google-ss-1.png" width='300'/>
 
 <br>
 
-<img src="./screenshot/google-ss-2.png"/>
+<img src="./screenshot/google-ss-2.png" width='300'/>
 
 <br>
 
-<img src="./screenshot/google-ss-3.png"/>
+<img src="./screenshot/google-ss-3.png" width='300'/>
 
 
 <br/> <br/>
 
 <Strong>Safari</Strong>
 
-<img src="./screenshot/safari-ss-1.png"/>
+<img src="./screenshot/safari-ss-1.png" width='300'/>
 
 <br>
 
-<img src="./screenshot/safari-ss-2.png"/>
+<img src="./screenshot/safari-ss-2.png" width='300'/>
 
 <br>
 
-<img src="./screenshot/safari-ss-3.png"/>
+<img src="./screenshot/safari-ss-3.png" width='300'/>
 
 
 <br/> <br/>
 
 <Strong>Firefox</Strong>
 
-<img src="./screenshot/firefox-ss-1.png"/>
+<img src="./screenshot/firefox-ss-1.png" width='300'/>
 
 <br>
 
-<img src="./screenshot/firefox-ss-2.png"/>
+<img src="./screenshot/firefox-ss-2.png" width='300'/>
 
 <br>
 
-<img src="./screenshot/firefox-ss-3.png"/>
+<img src="./screenshot/firefox-ss-3.png" width='300'/>
 
 
 <br><br>
@@ -82,66 +82,66 @@ Project Description
 
 IPhone 12 Pro
 
-<img src="./screenshot/iphone-12-pro-ss-1.png"/>
+<img src="./screenshot/iphone-12-pro-ss-1.png" width='200'/>
 
 <br>
 
-<img src="./screenshot/iphone-12-pro-ss-2.png"/>
+<img src="./screenshot/iphone-12-pro-ss-2.png" width='200'/>
 
 <br><br/>
 
 
 IPhone SE
 
-<img src="./screenshot/iphone-se-ss-1.png"/>
+<img src="./screenshot/iphone-se-ss-1.png" width='200'/>
 
 <br>
 
-<img src="./screenshot/iphone-se-ss-2.png"/>
+<img src="./screenshot/iphone-se-ss-2.png" width='200'/>
 
 <br><br/>
 
 
 IPad Air
 
-<img src="./screenshot/ipad-air-ss-1.png"/>
+<img src="./screenshot/ipad-air-ss-1.png" width='200'/>
 
 <br>
 
-<img src="./screenshot/ipad-air-ss-2.png"/>
+<img src="./screenshot/ipad-air-ss-2.png" width='200'/>
 
 <br><br/>
 
 
 Pixel 2
 
-<img src="./screenshot/pixel-2-ss-1.png"/>
+<img src="./screenshot/pixel-2-ss-1.png" width='200'/>
 
 <br>
 
-<img src="./screenshot/pixel-2-ss-2.png"/>
+<img src="./screenshot/pixel-2-ss-2.png" width='200'/>
 
 <br><br/>
 
 
 Pixel 2 XL
 
-<img src="./screenshot/pixel-2-xl-ss-1.png"/>
+<img src="./screenshot/pixel-2-xl-ss-1.png" width='200'/>
 
 <br>
 
-<img src="./screenshot/pixel-2-xl-ss-2.png"/>
+<img src="./screenshot/pixel-2-xl-ss-2.png" width='200'/>
 
 <br><br/>
 
 
 Surface Pro 7
 
-<img src="./screenshot/surface-pro-7-ss-1.png"/>
+<img src="./screenshot/surface-pro-7-ss-1.png" width='200'/>
 
 <br>
 
-<img src="./screenshot/surface-pro-7-ss-2.png"/>
+<img src="./screenshot/surface-pro-7-ss-2.png" width='200'/>
 
 <br><br/>
 
