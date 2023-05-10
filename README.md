@@ -1,71 +1,184 @@
 # rest-countries-react-app
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To run the project locally
 
-## Available Scripts
+1.  npm install
 
-In the project directory, you can run:
+2. npm start
 
-### `npm start`
+<br/>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Here is a link to view the site:-
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+https://rest-countries-react-app-dc.netlify.app/
 
-### `npm test`
+<br/>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<Strong>
+Project Description
+</Strong>
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. The first page has a search bar which display list of countries according to the keyword searched
+2. After clicking on the selected country, the next page shows the selected country details
+3. All the countries data is obtain from https://restcountries.com/ API
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<br/>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Screenshots
 
-### `npm run eject`
+<Strong><u>Web Browser</u></Strong>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<Strong>Google</Strong>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<img src="./screenshot/google-ss-1.png"/>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<br>
 
-## Learn More
+<img src="./screenshot/google-ss-2.png"/>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<br>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<img src="./screenshot/google-ss-3.png"/>
 
-### Code Splitting
+<br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<img src="./screenshot/google-ss-4.png"/>
 
-### Analyzing the Bundle Size
+<br/> <br/>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<Strong>Safari</Strong>
 
-### Making a Progressive Web App
+<img src="./screenshot/safari-ss-1.png"/>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<br>
 
-### Advanced Configuration
+<img src="./screenshot/safari-ss-2.png"/>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<br>
 
-### Deployment
+<img src="./screenshot/safari-ss-3.png"/>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<br>
 
-### `npm run build` fails to minify
+<img src="./screenshot/safari-ss-4.png"/>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<br/> <br/>
+
+<Strong>Firefox</Strong>
+
+<img src="./screenshot/firefox-ss-1.png"/>
+
+<br>
+
+<img src="./screenshot/firefox-ss-2.png"/>
+
+<br>
+
+<img src="./screenshot/firefox-ss-3.png"/>
+
+<br>
+
+<img src="./screenshot/firefox-ss-4.png"/>
+
+<br><br>
+
+
+<Strong>Various Devices</Strong>
+
+IPhone 12 Pro
+
+<img src="./screenshot/iphone-12-pro-ss-1.png"/>
+
+<br>
+
+<img src="./screenshot/iphone-12-pro-ss-2.png"/>
+
+<br><br/>
+
+
+IPhone SE
+
+<img src="./screenshot/iphone-se-ss-1.png"/>
+
+<br>
+
+<img src="./screenshot/iphone-se-ss-2.png"/>
+
+<br><br/>
+
+
+IPad Air
+
+<img src="./screenshot/ipad-air-ss-1.png"/>
+
+<br>
+
+<img src="./screenshot/ipad-air-ss-2.png"/>
+
+<br><br/>
+
+
+Pixel 2
+
+<img src="./screenshot/pixel-2-ss-1.png"/>
+
+<br>
+
+<img src="./screenshot/pixel-2-ss-2.png"/>
+
+<br><br/>
+
+
+Pixel 2 XL
+
+<img src="./screenshot/pixel-2-xl-ss-1.png"/>
+
+<br>
+
+<img src="./screenshot/pixel-2-xl-ss-2.png"/>
+
+<br><br/>
+
+
+Surface Pro 7
+
+<img src="./screenshot/surface-pro-7-ss-1.png"/>
+
+<br>
+
+<img src="./screenshot/surface-pro-7-ss-2.png"/>
+
+<br><br/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
